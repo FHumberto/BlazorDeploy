@@ -20,4 +20,4 @@ W
 
 ## ⚙️ DEMO
 
-Link: [Blazor Deploy](https://www.fhumberto.dev.br)
+Link: [Blazor Deploy](https://fhumberto.github.io/BlazorDeploy/)
