@@ -8,12 +8,12 @@
 
 ## 💻 Projeto
 
-Aplicação simples para testar o deploy workflow de uma aplicação Blazor usando o host do github pages.
+Aplicação simples com o propósito de estabelecer a criação de um deploy workflow de aplicação Blazorr usando o host do github pages.
 
 ## 🏗️ Tecnologias
-W
+
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-W
+
 - .NET 7.0
 - BlazorWebAssembly
 
